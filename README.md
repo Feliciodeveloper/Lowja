@@ -50,7 +50,7 @@ Não foi usado
 - Golang
 - Javascript
 - HTML
-- Css
+- Bootstrap
 
 ### Projeto
 

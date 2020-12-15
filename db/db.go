@@ -17,7 +17,7 @@ func ConectaBanco() *sql.DB {
 		database = "cursogo"
 		user     = "root"
 		password = ""
-		port     = "3306"
+		port     = "3305"
 	)
 	var connectionString = fmt.Sprintf("%s:%s@tcp(%s:%s)/%s", user, password, host, port, database)
 	db, err := sql.Open("mysql", connectionString)

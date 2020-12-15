@@ -13,11 +13,11 @@ import (
 //ConectaBanco é função de conexao com o banco de dados
 func ConectaBanco() *sql.DB {
 	const (
-		host     = "localhost"
-		database = "cursogo"
-		user     = "root"
-		password = ""
-		port     = "3305"
+		host     = //host do banco
+		database = //nome do banco
+		user     = //usuario
+		password = //senha
+		port     = //porta
 	)
 	var connectionString = fmt.Sprintf("%s:%s@tcp(%s:%s)/%s", user, password, host, port, database)
 	db, err := sql.Open("mysql", connectionString)

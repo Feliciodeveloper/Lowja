@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/LOJA-CURSO/models"
+	"LOJA-CURSO/models"
 )
 
 //Produto ...

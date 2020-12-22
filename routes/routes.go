@@ -3,7 +3,7 @@ package routes
 import (
 	"net/http"
 
-	"github.com/LOJA-CURSO/controllers"
+	"LOJA-CURSO/controllers"
 )
 
 //CarregaRotas ...

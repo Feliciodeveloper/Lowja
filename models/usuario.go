@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/LOJA-CURSO/db"
+	"LOJA-CURSO/db"
 )
 
 //Usuario ...

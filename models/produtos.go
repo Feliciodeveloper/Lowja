@@ -5,8 +5,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/LOJA-CURSO/db"
-	"github.com/LOJA-CURSO/services"
+	"LOJA-CURSO/db"
+	"LOJA-CURSO/services"
 )
 
 //Produto ...
